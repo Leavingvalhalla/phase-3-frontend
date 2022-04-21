@@ -44,3 +44,13 @@ aspect-ratio: 362 / 500 ;
 .card {
   width: 20%;
 }
+
+.btn-secondary {
+  margin: 2% 0;
+  padding: 0 2%
+}
+
+.movie-details {
+  line-height: .5;
+  padding: 0 0 4% 0
+}
