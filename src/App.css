@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+img {
+aspect-ratio: 362 / 500 ;
+}
+
+.card {
+  width: 20%;
+}
